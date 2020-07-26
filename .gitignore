@@ -1,7 +1,6 @@
 # Generated files by hugo
-/public/
-/resources/_gen/
+resources/
 
 # IDE specific files
-.idea/
+.idea
 .gitmodules
